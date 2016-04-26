@@ -1,0 +1,73 @@
+    Refer the following books for Professional Knowledge preparation:
+        Data Structures using C and C++, Tannenbaum, 2nd edition  1995
+        W. Stallings, Computer Organization and Architecture Designing for Performance 8th Edition 2009, Prentice Hall of India.
+        Ramakrishanan, J. Gehrke, Database Management Systems 3rd Edition, McGraw-Hill 2002.
+        A.S. Tanenbaum, Modern Operating Systems, 3rd Edition, Pearson Education 2007.
+        B. A. Forouzan: Data Communications and Networking, Fourth edition, THM Publishing Company Ltd 2007.
+        E. Balaguruswamy, Object Oriented Programming with C++ , 4th Edition, Tata McGraw Hill 1997
+    Practice mock tests for SBI Specialist Assistant Manager (System). Click here to enroll for SBI Systems Officer Crash Course (10 Mock Tests) @Rs 999 only. 
+
+Syllabus for SBI Specialist Assistant Manager (System). 
+
+A) Data Base Management System (DBMS)
+
+a) Introduction
+b) RDBMS
+
+i. Entity Relationship Model
+ii. Relational Model
+
+c) Normalization
+d) Overview of SQL queries
+e) E-R Diagrams
+f) Transaction Management
+
+B) Data Communication & Networking
+
+a) Network Architecture
+b) OSI Model
+c) Transmission Control Protocol
+d) Internet Protocol
+e) Data Communication
+f) IP Addressing and Subnetting
+
+C) Operating System
+
+a) Process in OS
+b) Thread
+c) Types of OS
+d) Semaphore
+e) Scheduling
+f) Dead Lock
+g) Memory Partitioning
+h) Page Replacement
+
+D) Computer organization + Hardware (Microprocessor)
+
+a) Bus Structure
+
+E) Network Security
+
+a)Cryptography and System Security
+b) Cyber Crimes
+c) Risk Management
+d) Firewall
+F) Software Engineering
+a) Basics of Software Engineering
+b) Software Development Life Cycle (SDLC)
+c) Software Development Models
+
+G) Data Structures
+a)Basics of Data Structures
+b) Array
+c) Linked List
+d) Stacks
+
+H) Web Technologies
+a) HTML Tags
+b) XML
+
+I) Programming Languages (BASIC)
+
+a) C: Complete course on C (programming language)
+b) OOP (Object Oriented Programming)
