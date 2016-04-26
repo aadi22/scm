@@ -1,0 +1,17 @@
+For Journals
+[1] J. F. Fuller, E. F. Fuchs, and K. J. Roesler, "Influence of harmonics on power distribution system protection," IEEE Trans. Power Delivery, vol. 3, pp. 549-557, Apr. 1988.
+For Books:
+[2] E. Clarke, Circuit Analysis of AC Power Systems, vol. I. New York: Wiley, 1950, p. 81.
+[3] G. O. Young, "Synthetic structure of industrial plastics," in Plastics, 2nd ed., vol. 3, J. Peters, Ed. New York: McGraw-Hill, 1964, pp. 15-64.
+For Technical Reports:
+[4] E. E. Reber, R. L. Mitchell, and C. J. Carter, "Oxygen absorption in the Earth's atmosphere,"Aerospace Corp., Los Angeles, CA, Tech. Rep. TR-0200 (4230-46)-3, Nov. 1968.
+[5] S. L. Talleen. (1996, Apr.). The Intranet Architecture: Managing information in the new
+paradigm. Amdahl Corp., Sunnyvale, CA. [Online]. Available: http://www.amdahl.com/doc/products/bsg/intra/ infra/html
+For Conference Proceedings
+[6] J. L. Alqueres and J. C. Praca, "The Brazilian power system and the challenge of the Amazon transmission," in Proc. 1991 IEEE Power Engineering Society Transmission and Distribution Conf., pp. 315-320.
+For Dissertations:
+[7] S. Hwang, "Frequency domain system identification of helicopter rotor dynamics incorporating models with time periodic coefficients," Ph.D. dissertation, Dept. Aerosp. Eng., Univ. Maryland, College Park, 1997.
+For Standards:
+[8] IEEE Guide for Application of Power Apparatus Bushings, IEEE Standard C57.19.100-1995, Aug. 1995.
+For Patents:
+[9] G. Brandli and M. Dick, "Alternating current fed power supply," U.S. Patent 4 084 217, Nov. 4, 1978.
